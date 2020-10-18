@@ -7,3 +7,15 @@ example: `cargo run example.epub`
 In my testing, some books could take over a minute.  
 
 ## Running the app  
+
+Install [rust](https://doc.rust-lang.org/book/ch01-01-installation.html) and cargo.  
+
+clone, build, and run  
+
+`git clone 'https://github.com/LukewarmCoffee/epub-kanji-frequency.git'`  
+
+`cd epub-kanji-frequency`  
+
+`cargo build`  
+
+`cargo run [your epub file].epub`  
