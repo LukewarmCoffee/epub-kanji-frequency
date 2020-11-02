@@ -1,5 +1,10 @@
-/// Takes in an EPUB file and parses it, returning a list of Kanji
-/// sorted by frequency
+/// Takes in an EPUB file and parses it, returning a list of Kanji  
+/// sorted by frequency  
+/// Usage:  
+/// cargo run japanesebook.epub output.txt  
+///     - output is printed to `output.txt`  
+/// cargo run mybook.epub  
+///     - output is printed to the command line  
 
 #[macro_use]
 extern crate lazy_static;
