@@ -1,7 +1,7 @@
 /// Takes in an EPUB file and parses it, returning a list of Kanji  
 /// sorted by frequency.  
 /// The kanji found are compared to a dictionary from the kanjidic project.
-/// (link)[https://www.edrdg.org/wiki/index.php/KANJIDIC_Project]
+/// [link](https://www.edrdg.org/wiki/index.php/KANJIDIC_Project)
 /// And finally the .txt file is formatted so that it can be easily uploaded to
 /// Anki.  
 ///  
